@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/tomcat/webapps":{"guestpath":"/opt/tomcat/webapps","hostpath":"C:/Users/fmbowstg/OneDrive - EXPRESSO TELECOM/vagrant/ubuntu/srv-tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/fmbowstg/OneDrive - EXPRESSO TELECOM/vagrant/ubuntu","disabled":false,"__vagrantfile":true}}}
